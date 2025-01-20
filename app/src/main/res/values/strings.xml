@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="nama_user">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="cerita">Story</string>
+    <string name="tambah_cerita">Tambah Cerita</string>
+    <string name="add_icon">Icon Tambah</string>
+    <string name="error_email">Email tidak valid atau tidak cocok</string>
+    <string name="email">Email</string>
+    <string name="error_password">Password harus terdiri dari minimal 8 karakter</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="image_description">banner register</string>
+    <string name="register">REGISTER</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="register_login">Login</string>
+    <string name="login_register">Register</string>
+    <string name="tidak_punya_akun">Belum memiliki akun?</string>
+    <string name="login_succes">Login Successfully</string>
+    <string name="register_succes">Register Successfully</string>
+    <string name="logout">Log out</string>
+    <string name="imagedetail">DetailGambar</string>
+    <string name="author_name">NamaPembuat</string>
+    <string name="create_time">WaktuDibuat</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="error_description_null">Kesalahan, tidak boleh kosong</string>
+    <string name="empty_story">empty story</string>
+    <string name="error_fetching_stories">Kesalahan dalam mengambil cerita: %1$s</string>
+    <string name="story_id_not_found">ID Cerita tidak Ditemukan</string>
+    <string name="failed_to_create_new_image_uri">Gagal membuat URI gambar baru</string>
+    <string name="permission_request_granted">Permintaan izin disetujui</string>
+    <string name="unable_to_create_image_uri">Tidak dapat membuat URI gambar</string>
+    <string name="image_capture_failed">Pengambilan gambar gagal</string>
+    <string name="no_media_selected">Tidak ada media yang dipilih</string>
+    <string name="error_getting_image_uri">Kesalahan saat mengambil URI gambar</string>
+    <string name="map">Map</string>
+    <string name="retry">retry</string>
+    <string name="location">Location</string>
+    <string name="maps">Maps</string>
+    <string name="style_parsing_failed">Style parsing failed.</string>
+    <string name="can_t_find_style_error">Can\'t find style. Error: %1$s</string>
+    <string name="new_image">Gambar baru</string>
+    <string name="image_from_camera">Gambar dari kamera</string>
+    <string name="location_permission_denied">Izin lokasi ditolak</string>
+    <string name="location_acquired">Lokasi diperoleh</string>
+    <string name="location_not_found">Location tidak ditemukan</string>
+    <string name="camera_permission_denied">Izin kamera ditolak</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="back_button_content_description" translatable="false">Back button</string>
+    <string name="title_sign_in" translatable="false">Login</string>
+    <string name="welcome_text" translatable="false">Create your account</string>
+    <string name="subheading_text" translatable="false">Complete the following data</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="password_hint" translatable="false">Password</string>
+    <string name="forgot_password" translatable="false">Forgot Password?</string>
+    <string name="btn_login" translatable="false">Sign In</string>
+    <string name="no_account" translatable="false">Don\'t have an Account?</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="register_title"  translatable="false">Register</string>
+    <string name="name_hint" translatable="false">Name</string>
+    <string name="welcome_text_register" translatable="false">Buat akunmu</string>
+    <string name="subheading_text_register" translatable="false">Lengkapi data berikut</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="already_have_account" translatable="false">Already have an Account?</string>
+    <string name="sign_up_option" translatable="false"> Sign Up</string>
+    <string name="description_text" translatable="false">The smartest manage your money easily with wealth.</string>
+    <string name="create_account" translatable="false">Create new account</string>
+    <string name="credit_card_image_description" translatable="false">Credit card image</string>
+</resources>
