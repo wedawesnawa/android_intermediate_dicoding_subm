@@ -1,4 +1,4 @@
-# Android Fundamental Learning Project
+# Android Intermediate Learning Project
 <img src="Video-Project-6-3.gif" height="750" />
 
 ## About
